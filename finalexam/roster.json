@@ -1,0 +1,45 @@
+{
+  "students": [
+    {
+      "name": "Foo Bar",
+      "stream": "challenge",
+      "projectGrade": 80,
+      "examGrade": 90.1
+    },
+    {
+      "name": "Lorem Ipsum",
+      "stream": "project",
+      "milestoneGrades": [
+        75.7,
+        80,
+        85
+      ],
+      "examGrade": 90.1,
+      "midtermGrade": 85,
+      "participating": false
+    },
+    {
+      "name": "Generic Student",
+      "stream": "assignment",
+      "quizGrades": [
+        70,
+        80.2,
+        63.5
+      ],
+      "assignmentGrades": [
+        50,
+        40.5,
+        68.9,
+        13,
+        0,
+        0,
+        70,
+        100,
+        78,
+        79
+      ],
+      "examGrade": 86.5,
+      "participating": true
+    }
+  ]
+}
